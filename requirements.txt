@@ -1,0 +1,8 @@
+invoke
+ipython[notebook]
+numpy
+scipy
+pydot
+pandas
+matplotlib
+scikit-learn
